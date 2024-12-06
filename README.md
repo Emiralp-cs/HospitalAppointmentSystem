@@ -6,7 +6,15 @@
 * Doctors can read appointments and patients complaints.
 * Secretaries can add new doctors, write announcements and announce them to all doctors.
 ## HastaneRandevuSistemi
-
+* Bu projede C# programlama dili kullanılmış olup, veritabanı olarak MSSQL kullanılmıştır.
+* Tek bir kullanıcı giriş ekranı bulunmakta olup bu ekrandan doktor, hasta ve sekreter girişi yapılabilmektedir.
+* Eğer hasta kaydı yapılmadıysa kayıt ekranından kayıt yaptırılabilir.
+* Hastalar ve doktorlar kendi bilgilerini düzenleyebilirler.
+* Doktorlar randevuları ve hastaların şikayetlerini okuyabilir.
+* Sekreterler yeni doktor ekleyebilir, duyuru yazabilir ve bunları tüm doktorlara duyurabilir.
+## Built With
+* [![C#][C#]][Next-url]
+  
 
 
 
