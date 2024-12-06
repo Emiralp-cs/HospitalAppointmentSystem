@@ -13,11 +13,9 @@
 * Doktorlar randevuları ve hastaların şikayetlerini okuyabilir.
 * Sekreterler yeni doktor ekleyebilir, duyuru yazabilir ve bunları tüm doktorlara duyurabilir.
 ## Built With
-* [![C#][C#-logo]][C#-url]
+* ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
-[C#-url]: https://learn.microsoft.com/en-us/dotnet/csharp/
-[C#-logo]: https://raw.githubusercontent.com/gist/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg
 
   
 
